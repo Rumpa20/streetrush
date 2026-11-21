@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AR NIT STREET RUSH splash logo: stylized city skyline with a running figure streak -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="220dp"
+    android:height="220dp"
+    android:viewportWidth="220"
+    android:viewportHeight="220">
+
+    <!-- halo ring -->
+    <path
+        android:pathData="M110,110 m-92,0 a92,92 0 1,1 184,0 a92,92 0 1,1 -184,0"
+        android:strokeColor="#22E4C8"
+        android:strokeWidth="6"
+        android:fillColor="#00000000" />
+
+    <!-- buildings -->
+    <path
+        android:pathData="M48,150 L48,88 L74,88 L74,150 Z"
+        android:fillColor="#3A2F7D" />
+    <path
+        android:pathData="M78,150 L78,64 L104,64 L104,150 Z"
+        android:fillColor="#4C3FA0" />
+    <path
+        android:pathData="M108,150 L108,96 L134,96 L134,150 Z"
+        android:fillColor="#3A2F7D" />
+    <path
+        android:pathData="M138,150 L138,76 L170,76 L170,150 Z"
+        android:fillColor="#4C3FA0" />
+
+    <!-- neon windows -->
+    <path android:pathData="M56,100 h10 v8 h-10 Z M56,118 h10 v8 h-10 Z M86,76 h10 v8 h-10 Z M86,94 h10 v8 h-10 Z M116,108 h10 v8 h-10 Z M116,126 h10 v8 h-10 Z M146,88 h10 v8 h-10 Z M146,106 h10 v8 h-10 Z M146,124 h10 v8 h-10 Z"
+        android:fillColor="#FFC93C" />
+
+    <!-- runner streak -->
+    <path
+        android:pathData="M30,162 L190,162"
+        android:strokeColor="#FF3D8A"
+        android:strokeWidth="10"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M55,178 L165,178"
+        android:strokeColor="#FFC93C"
+        android:strokeWidth="6"
+        android:strokeLineCap="round" />
+
+    <!-- lightning bolt (signature mark) -->
+    <path
+        android:pathData="M120,20 L98,64 L114,64 L102,100 L142,52 L124,52 L138,20 Z"
+        android:fillColor="#22E4C8"/>
+</vector>

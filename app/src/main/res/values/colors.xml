@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AR NIT STREET RUSH brand palette -->
+    <color name="brand_bg">#0E1023</color>
+    <color name="brand_neon">#22E4C8</color>
+    <color name="brand_pink">#FF3D8A</color>
+    <color name="brand_yellow">#FFC93C</color>
+    <color name="brand_deep">#161A38</color>
+    <color name="ic_launcher_background">#151838</color>
+</resources>
